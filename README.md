@@ -1,4 +1,4 @@
-# AdminPro - Backend
+# Votaciones - Backend
 
 Recuerden ejecutar 
 
